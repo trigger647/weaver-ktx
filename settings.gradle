@@ -1,0 +1,3 @@
+rootProject.name = "RxWeaver"
+include ':app'
+include ':rx-weaver-ktx'
